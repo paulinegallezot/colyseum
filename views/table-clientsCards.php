@@ -1,7 +1,7 @@
 <div class="container-fluid bg-manu p-0">
     <div class="alert-transparent" role="alert">
       <div class="container h-100 d-flex flex-column justify-content-center align-items-center ">
-        <h1 class="text-center">Bienvenue au Colyseum</h1>
+        <h1 class="text-center">Bienvenue au Colyseum!</h1>
         <div class="label w-75 p-2 pl-5 mt-4 text-center">
           <h2><span class="badge badge-dark">Nos clients et leur carte de réduction</span></h2>
         </div>
